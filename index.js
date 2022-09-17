@@ -14,14 +14,14 @@ const addTodo = (e) => {
     setTodoLocalStorage(newTodo);
   }
 };
-/*
+
 const deleteTodo = (e) => {
   if (e.target.className === "fa-sharp fa-solid fa-trash p-2") {
     e.target.parentElement.parentElement.remove();
     deleteTodoStorage(e.target.parentElement.parentElement.textContent);
   }
 };
-
+/*
 const addTodoUI = (newTodo) => {
   const listItem = document.createElement("li");
   const pa = document.createElement("p");
