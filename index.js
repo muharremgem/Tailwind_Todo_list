@@ -36,7 +36,7 @@ const addTodoUI = (newTodo) => {
   input.focus();
   input.value = "";
 };
-/*
+
 // LocalStorage 
 const getTodos = () => {
     let todos;
@@ -54,7 +54,7 @@ const setTodoLocalStorage = (newTodo) => {
 
     localStorage.setItem("todos",JSON.stringify(todo));
 };
-
+/*
 const loadAllTodos = () => {
     let todos = getTodos();
 
