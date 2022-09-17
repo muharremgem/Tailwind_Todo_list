@@ -3,7 +3,7 @@ const buttons = document.querySelector("button");
 const delete_button = document.querySelectorAll(".bodyy")[0];
 const ul = document.querySelector("ul");
 const body = document.querySelector("body");
-/*
+
 const addTodo = (e) => {
   const newTodo = input.value.trim();
   if (newTodo === "") {
@@ -14,7 +14,7 @@ const addTodo = (e) => {
     setTodoLocalStorage(newTodo);
   }
 };
-
+/*
 const deleteTodo = (e) => {
   if (e.target.className === "fa-sharp fa-solid fa-trash p-2") {
     e.target.parentElement.parentElement.remove();
