@@ -21,7 +21,7 @@ const deleteTodo = (e) => {
     deleteTodoStorage(e.target.parentElement.parentElement.textContent);
   }
 };
-/*
+
 const addTodoUI = (newTodo) => {
   const listItem = document.createElement("li");
   const pa = document.createElement("p");
@@ -36,7 +36,7 @@ const addTodoUI = (newTodo) => {
   input.focus();
   input.value = "";
 };
-
+/*
 // LocalStorage 
 const getTodos = () => {
     let todos;
