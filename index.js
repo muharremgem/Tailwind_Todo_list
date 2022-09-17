@@ -4,6 +4,7 @@ const delete_button = document.querySelectorAll(".bodyy")[0];
 const ul = document.querySelector("ul");
 const body = document.querySelector("body");
 
+
 const addTodo = (e) => {
   const newTodo = input.value.trim();
   if (newTodo === "") {
@@ -22,6 +23,7 @@ const deleteTodo = (e) => {
   }
 };
 
+
 const addTodoUI = (newTodo) => {
   const listItem = document.createElement("li");
   const pa = document.createElement("p");
@@ -36,6 +38,7 @@ const addTodoUI = (newTodo) => {
   input.focus();
   input.value = "";
 };
+
 
 // LocalStorage 
 const getTodos = () => {
@@ -63,6 +66,7 @@ const loadAllTodos = () => {
 
     });
 }
+
 
 const deleteTodoStorage = (deleteTodo) => {
     let todos = getTodos()
