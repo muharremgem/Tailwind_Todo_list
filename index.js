@@ -63,7 +63,7 @@ const loadAllTodos = () => {
 
     });
 }
-/*
+
 const deleteTodoStorage = (deleteTodo) => {
     let todos = getTodos()
     
@@ -79,4 +79,3 @@ document.addEventListener("DOMContentLoaded", loadAllTodos);
 body.addEventListener("keyup", addTodo)
 buttons.addEventListener("click", addTodo);
 delete_button.addEventListener("click", deleteTodo);
-*/
