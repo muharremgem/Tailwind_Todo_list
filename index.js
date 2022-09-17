@@ -54,7 +54,7 @@ const setTodoLocalStorage = (newTodo) => {
 
     localStorage.setItem("todos",JSON.stringify(todo));
 };
-/*
+
 const loadAllTodos = () => {
     let todos = getTodos();
 
@@ -63,6 +63,7 @@ const loadAllTodos = () => {
 
     });
 }
+/*
 const deleteTodoStorage = (deleteTodo) => {
     let todos = getTodos()
     
