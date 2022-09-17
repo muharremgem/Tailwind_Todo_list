@@ -23,7 +23,6 @@ const deleteTodo = (e) => {
   }
 };
 
-
 const addTodoUI = (newTodo) => {
   const listItem = document.createElement("li");
   const pa = document.createElement("p");
@@ -38,7 +37,6 @@ const addTodoUI = (newTodo) => {
   input.focus();
   input.value = "";
 };
-
 
 // LocalStorage 
 const getTodos = () => {
@@ -67,7 +65,6 @@ const loadAllTodos = () => {
     });
 }
 
-
 const deleteTodoStorage = (deleteTodo) => {
     let todos = getTodos()
     
@@ -83,3 +80,4 @@ document.addEventListener("DOMContentLoaded", loadAllTodos);
 body.addEventListener("keyup", addTodo)
 buttons.addEventListener("click", addTodo);
 delete_button.addEventListener("click", deleteTodo);
+
