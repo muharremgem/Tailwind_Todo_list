@@ -24,9 +24,8 @@ Project aims to create Todo_list within html and css.
 Todo_list (folder)
 
 |----readme.md                 
-|----index.html  
-|----style.css  
-|----script.js
+|----index.html   
+|----index.js
        
        
 
@@ -41,6 +40,8 @@ Functionally create a Todo_list as in the image above
 - HTML List
 
 - HTML İnput
+
+- Tailwind Css
 
 - CSS Colors-Border Properties
 
