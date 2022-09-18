@@ -12,7 +12,7 @@ Project aims to create Todo_list within html and css.
 
 
 ## Problem Statement
-- My project to improve html,css and js tutorials
+- My project to improve html,Tailwind-css and js tutorials
 
 ## Project Design
 
