@@ -8,7 +8,7 @@ Project aims to create Todo_list within html and css.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Tailwind_Todo_list](https://muharremgem.github.io/JavaScript_Todo_list/)| Html Css Js |![Todo_list](todo.gif)
+[Tailwind_Todo_list](https://muharremgem.github.io/Tailwind_Todo_list/)| Html Css Js |![Todo_list](todo.gif)
 
 
 ## Problem Statement
@@ -22,7 +22,7 @@ Project aims to create Todo_list within html and css.
 
 ```
 Todo_list (folder)
-|----images
+
 |----readme.md                 
 |----index.html  
 |----style.css  
