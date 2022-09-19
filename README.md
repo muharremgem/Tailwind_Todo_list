@@ -101,6 +101,7 @@ Functionally create a Todo_list as in the image above
 
 
 
+
 <br/>
 <div align='center'>
 
@@ -116,5 +117,6 @@ Functionally create a Todo_list as in the image above
 <a href="https://www.sololearn.com/profile/25898969" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/sololearn.svg" alt="muharrem gem" height="30" width="40" /></a>
 <a href="https://www.figma.com/files/recent?fuid=1146789494867946996" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/figma.svg" alt="muharrem gem" height="30" width="40" /></a>
   
+
 
 </div>
