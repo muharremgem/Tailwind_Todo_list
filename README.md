@@ -101,7 +101,6 @@ Functionally create a Todo_list as in the image above
 
 
 
-
 <br/>
 <div align='center'>
 
@@ -120,3 +119,4 @@ Functionally create a Todo_list as in the image above
 
 
 </div>
+
